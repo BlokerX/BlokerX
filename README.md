@@ -48,34 +48,36 @@ Welcome to my GitHub profile! I'm a passionate programmer and a Computer Science
 ### Tools & Technologies
 <p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_logo.png" width="40" height="40" alt="Linux"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Office_Logo.png" width="40" height="40" alt="Microsoft Office"/>
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" width="40" height="40" alt="Linux"/>
+<img src="" width="40" height="40" alt="Microsoft Office"/>
 </p>
 
 ### Game Development
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Unity_Logo.png" width="40" height="40" alt="Unity"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Unreal_Engine_Logo.png" width="40" height="40" alt="Unreal Engine"/>
-<img src="https://flaxengine.com/assets/images/flax-logo.svg" width="40" height="40" alt="Flax Engine"/>
+<img src="" width="40" height="40" alt="Unity"/>
+<img src="" width="40" height="40" alt="Unreal Engine"/>
+<img src="" width="40" height="40" alt="Flax Engine"/>
+<img src="https://icon.icepanel.io/Technology/svg/Arduino.svg" width="40" height="40" alt="Arduino"/>
 </p>
 
 ### Social Media & Communication
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Discord_logo.svg" width="40" height="40" alt="Discord"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/LinkedIn_icon.svg" width="40" height="40" alt="LinkedIn"/>
-<img src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_bird_logo_2012.svg" width="40" height="40" alt="Twitter"/>
+<img src="" width="40" height="40" alt="Discord"/>
+<img src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" width="40" height="40" alt="LinkedIn"/>
+<img src="" width="40" height="40" alt="Twitter"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="40" height="40" alt="Facebook"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="40" height="40" alt="GitHub"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40" alt="Instagram"/>
+<img src="https://icon.icepanel.io/Technology/svg/Stack-Overflow.svg" width="40" height="40" alt="StackOverflow"/>
 </p>
 
 ## 📂 Projects
 
 Here are some of my favorite projects:
 
-- [Project 1](link-to-your-project): A brief description of what it is.
-- [Project 2](link-to-your-project): A brief description of what it is.
-- [Project 3](link-to-your-project): A brief description of what it is.
+- [MathFunctionsProject](https://github.com/BlokerX/MathFunctionsProject): New super calculator with its own library.
+- [GameAssistant](https://github.com/BlokerX/GameAssistant): A program with widgets for gamers on Windows.
+- [BlokHealth](https://github.com/BlokerX/BlokHealth): Application about health and diet.
 
 ## 📫 Get in Touch
 
