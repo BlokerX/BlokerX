@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate programmer and a Computer Science
 - 🌍 **Location**: Poland
 - 💬 **Languages**: English, Polish
 
-## 🛠 Skills
+## 🛠 Main Skills
 
 ### Programming Languages
 <p align="left">
@@ -35,6 +35,8 @@ Welcome to my GitHub profile! I'm a passionate programmer and a Computer Science
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python"/>
+<img src="https://www.swi-prolog.org/icons/swipl.png" width="40" height="40" alt="Prolog"/>
+<img src="https://png.pngtree.com/png-vector/20190330/ourmid/pngtree-asm-file-document-icon-png-image_898000.jpg" width="40" height="40" alt="Assembly"/>
 </p>
 
 ### Web Development
